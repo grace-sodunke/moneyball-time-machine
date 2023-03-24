@@ -1,2 +1,2 @@
-# moneyball-time-machine
-Internship at Vela Partners
+# Moneyball: Time Machine Dataset using GPT-3
+
